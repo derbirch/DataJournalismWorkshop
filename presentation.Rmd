@@ -1,0 +1,158 @@
+---
+title: "A New Advanture"
+subtitle: "Production of Story Driven by Data"
+author: "Nanyu Zhou"
+institute: "USST"
+date: "2020/09/27"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: left, middle
+
+# 目录
+
+## #1 Intro
+## #2 如何发现故事
+## #3 如何倾听数据
+## #3 做好讲述人
+## #4 我们的路
+
+---
+class: inverse, center, middle
+
+# #1 Intro
+---
+class: center, middle
+
+# 什么是数据新闻
+
+---
+class: left
+# 每一个数据都是活的
+<img src="https://cdn.wardzhou.art/img/20200927105801.png" width="80%"/>
+.footnote[[*] 来源：澎湃新闻]
+---
+# 聆听数据
+### 数据背后的故事是无比重要的
+![](https://cdn.wardzhou.art/img/20200927111248.png)
+
+---
+class: Left, inverse
+
+# 讲述
+## “三个”不幸家庭的故事
+<img src="https://cdn.wardzhou.art/img/ThePaperDevorce.png"/>
+
+---
+class: inverse, center, middle
+# 如何发现故事
+
+---
+
+# 故事随处可见
+## 你需要的是
+- 新闻敏锐和新闻直觉
+- 与社会保持连结
+- 深耕某个领域
+- 马不停蹄地学习
+
+---
+class: center, middle
+
+# 在澎湃我们如何选题
+---
+# 寻找数据
+## 结构的数据*
+统计报告、年鉴、数据库、数据API等等
+<img src="https://cdn.wardzhou.art/img/20200927113955.png" width="70%"/>
+
+---
+
+## 非结构的数据
+文本、语音、视频等
+<img src="https://cdn.wardzhou.art/img/20200927114243.png"/>
+
+---
+class: inverse, center, middle
+# 如何倾听数据
+## 工具与框架
+
+---
+
+# 不同的角度，不同的故事
+
+.pull-left[
+## 工具
+1. 爬虫;
+
+1. 文本挖掘;
+
+1. 人工编码;
+
+1. ......
+
+]
+
+.pull-right[
+## 框架
+1. 数据交叉;
+
+1. 强调与省略;
+
+1. 叙事逻辑;
+
+1. ......
+
+
+  ]
+---
+
+# 作品对比
+.pull-left[
+###家庭暴力离我们多远？——对中国家庭暴力现状的数据调查
+<img src="https://cdn.wardzhou.art/img/WhyWomankillQR.png" width="50%"/>
+]
+.pull-right[
+### 在离婚诉讼里，藏着爱情的隐秘角落
+
+<img src="https://cdn.wardzhou.art/img/ThePaperDevorce.png" width="50%"/>
+]
+
+---
+
+class: inverse, center, middle
+# 做好讲述人
+
+---
+
+class: center, middle
+# # 客观
+# # 共情
+# # 形式
+# # 敏感
+
+---
+
+class: inverse, center, middle
+# 我们的路
+---
+
+# 大众想看到的，</br>不是我们要做的。
+
+# 我们要做的，</br>是大众要看的。
+
+---
+
+class: inverse, center, middle
+
+# Q&A
+
+---
+class: inverse, center, middle
+# 感谢
+
