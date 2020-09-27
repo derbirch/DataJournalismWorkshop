@@ -136,15 +136,14 @@ class: center, middle
 # # 形式
 # # 敏感
 ---
+.pull-left[
+# 职业选手
 
-class: center, middle
-.pull-right[
-# 电竞之路
-https://www.thepaper.cn/newsDetail_forward_9324720
+<img src="https://cdn.wardzhou.art/img/esportsQR1.png"/>
 ]
 .pull-right[
-# 电竞之路
-
+# 电竞行业
+<img src="https://cdn.wardzhou.art/img/esportsQR2.png" />
 ]
 
 ---
@@ -164,6 +163,9 @@ class: inverse, center, middle
 # Q&A
 
 ---
-class: inverse, center, middle
-# 感谢
+class: inverse
+# <br/><br/><br/><br/>感谢
+#### 周楠屿<br/>上海理工大学
+<img src="https://cdn.wardzhou.art/img/DataJournalismWorkshop.png" width="100"/>
+<img src="https://cdn.wardzhou.art/img/blogQR.png" width="100"/>
 
